@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\RTF_Magic\RTF_Magic\bin\Debug\RTF_Magic.exe.config
+C:\Users\Admin\source\repos\RTF_Magic\RTF_Magic\bin\Debug\RTF_Magic.exe
+C:\Users\Admin\source\repos\RTF_Magic\RTF_Magic\bin\Debug\RTF_Magic.pdb
+C:\Users\Admin\source\repos\RTF_Magic\RTF_Magic\obj\Debug\RTF_Magic.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RTF_Magic\RTF_Magic\obj\Debug\RTF_Magic.Form1.resources
+C:\Users\Admin\source\repos\RTF_Magic\RTF_Magic\obj\Debug\RTF_Magic.Properties.Resources.resources
+C:\Users\Admin\source\repos\RTF_Magic\RTF_Magic\obj\Debug\RTF_Magic.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\RTF_Magic\RTF_Magic\obj\Debug\RTF_Magic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RTF_Magic\RTF_Magic\obj\Debug\RTF_Magic.exe
+C:\Users\Admin\source\repos\RTF_Magic\RTF_Magic\obj\Debug\RTF_Magic.pdb
+C:\Users\Admin\source\repos\RTF_Magic\RTF_Magic\bin\Debug\First.rtf
