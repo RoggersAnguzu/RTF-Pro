@@ -3,7 +3,7 @@ Motive for RTF_Magic:
 
 The motive behind the "RTF_Magic" application is to create a user-friendly tool for working with Rich Text Format (RTF) documents. RTF documents allow users to apply various text formatting options such as text color, background color, font styles, text alignment, bullet points, and more. This application aims to simplify the process of editing and formatting RTF documents by providing an intuitive graphical interface.
 RTF_Magic
-RTF_Magic is a simple Windows Forms application that allows users to edit and format Rich Text Format (RTF) documents with ease.
+RTF_Magic is a simple Windows Forms application that allows users to edit and format Rich Text Format (RTF) documents with ease..
 # Photos
 ![x](https://github.com/RoggersAnguzu/RTF-Pro/assets/141458053/23027570-eb93-4f8a-aa3c-d5c98cf78b41)
 
