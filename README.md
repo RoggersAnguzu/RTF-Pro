@@ -9,7 +9,7 @@ RTF_Magic is a simple Windows Forms application that allows users to edit and fo
 
 # Features
 Load and edit existing RTF documents.
-Format text with different colors, font styles, and background colors..
+Format text with different colors, font styles, and background colors.
 Align text to the left, center, or right.
 Add and remove bullet points from text..
 Adjust text indentation.
